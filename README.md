@@ -20,8 +20,8 @@ This project is part of the Ironhack data analytics bootcamp. The goal of this p
   
 ## Dataset
   
-The data visualizations are based on a dataset from this source: https://sit.instructure.com/courses/26331/files/3460457  The data in this csv file was most definetely conducted by the author from sources like these wikipedia pages (see links below) and through webscraping. 
-The table originally consists of 26 columns, with data of all James Bond movies until 2012. I manually added information of the last movie from 2015 to have a complete dataset of all 24 movies. 
+The data visualizations are based on a dataset from this source: https://sit.instructure.com/courses/26331/files/3460457  The data in the csv file was most likely conducted by the author through webscraping from sources like wikipedia pages and rotten tomatoe (see links below). 
+The table originally consists of 26 columns, with data of all James Bond movies until 2012. I manually added data of the last movie from 2015 to have a complete dataset of all 24 movies. The dataset doesn't include the new movie "No Time To Die" which will be released in November 2020.
   
 ## Workflow
   
@@ -38,8 +38,6 @@ The table originally consists of 26 columns, with data of all James Bond movies 
 The repository contains a directory with the CSV files (original download and edited).
   
 ## Links
-
-The links to repository, presentation slides:
 
 [Tableau Public presentation](https://public.tableau.com/views/Project03_James_Bond_data_viz/Story_James_Bond_movies?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)  
 [GitHub repository](https://github.com/Ulli-H/Project03_James_Bond_movies.git)    
