@@ -35,10 +35,8 @@ The table originally consists of 26 columns, with data of all James Bond movies 
 
 ## Organization
   
-Our repository has:
- - directory containing CSV files (original download and edited)
-
-
+The repository contains a directory with the CSV files (original download and edited).
+  
 ## Links
 
 The links to repository, presentation slides:
